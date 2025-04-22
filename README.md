@@ -91,3 +91,9 @@ weather-city-search/
 - TypeScript
 - Axios for API requests
 - CSS for styling
+
+## Visuals
+
+<img width="1003" alt="image" src="https://github.com/user-attachments/assets/ef56bbf7-6659-4d46-8938-fc239d8e40ae" />
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/1d70771f-684c-4e87-8486-81735a4f0590" />
